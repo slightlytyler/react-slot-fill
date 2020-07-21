@@ -1,6 +1,6 @@
 {
   "name": "@slightlytyler/react-slot-fill",
-  "version": "1.0.0-alpha-4",
+  "version": "1.0.0-alpha-9",
   "description": "React tool for composing complex UIs. Like a portal gun for your components.",
   "author": "slightlytyler",
   "license": "MIT",
